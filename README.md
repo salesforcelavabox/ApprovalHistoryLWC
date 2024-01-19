@@ -5,6 +5,10 @@
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+<a href="https://githubsfdeploy.herokuapp.com?owner=salesforcelavabox&amp;repo=ApprovalHistoryLWC">
+  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" 
+    alt="Deploy to Salesforce" />
+</a>
 
 This repo contains a project that you can deploy to your org and use the `approvalHistory` LWC in Lightning Record Pages, and Lightning Apps.
 This component has all the functionality of the standard Approval History related list, with the difference that you can use it in any app. 
