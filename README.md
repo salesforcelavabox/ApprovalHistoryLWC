@@ -1,10 +1,6 @@
 # Approval History LWC
 
 
-<a href="[https://githubsfdeploy.herokuapp.com](https://githubsfdeploy.herokuapp.com/app/githubdeploy/salesforcelavabox/ApprovalHistoryLWC)">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
 <a href="https://githubsfdeploy.herokuapp.com?owner=salesforcelavabox&amp;repo=ApprovalHistoryLWC">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" 
     alt="Deploy to Salesforce" />
