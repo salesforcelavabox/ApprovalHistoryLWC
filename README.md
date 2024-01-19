@@ -1,6 +1,6 @@
 # Approval History LWC
 
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/ApprovalHistoryLWC
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/salesforcelavabox/ApprovalHistoryLWC
 
 
 This repo contains a project that you can deploy to your org and use the `approvalHistory` LWC in Lightning Record Pages, and Lightning Apps.
